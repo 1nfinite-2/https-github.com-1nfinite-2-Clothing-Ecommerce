@@ -1,0 +1,13 @@
+<script>start("/Users/sharipoviskandar/Desktop/Build-and-Deploy-Ecommerce-Website/img/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("about","about",1,320,"320 B",1761232733,"23/10/2025, 16:18:53");</script>
+<script>addRow("banner","banner",1,416,"416 B",1761232733,"23/10/2025, 16:18:53");</script>
+<script>addRow("blog","blog",1,288,"288 B",1761232733,"23/10/2025, 16:18:53");</script>
+<script>addRow("features","features",1,256,"256 B",1761232733,"23/10/2025, 16:18:53");</script>
+<script>addRow("pay","pay",1,160,"160 B",1761232733,"23/10/2025, 16:18:53");</script>
+<script>addRow("people","people",1,160,"160 B",1761232733,"23/10/2025, 16:18:53");</script>
+<script>addRow("products","products",1,576,"576 B",1761232733,"23/10/2025, 16:18:53");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1762352532,"05/11/2025, 14:22:12");</script>
+<script>addRow("button.png","button.png",0,5172,"5.1 kB",1762455976,"06/11/2025, 19:06:16");</script>
+<script>addRow("hero4.png","hero4.png",0,857651,"838 kB",1762455976,"06/11/2025, 19:06:16");</script>
+<script>addRow("logo.png","logo.png",0,5869,"5.7 kB",1762455976,"06/11/2025, 19:06:16");</script>
