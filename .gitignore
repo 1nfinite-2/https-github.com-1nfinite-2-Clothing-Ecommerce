@@ -1,8 +1,0 @@
-# OS
-.DS_Store
-
-# Node etc (if any)
-node_modules/
-
-# Ignore image assets for now (we'll add optimized ones later or use LFS)
-img/
